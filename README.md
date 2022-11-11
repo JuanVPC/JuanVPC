@@ -12,9 +12,9 @@
 <code><img height="32" src= "https://www.android.com/static/2016/img/aife/homepage/history/2019_pt_br_1x.jpg" alt="c"/></code>
 
 ## 📰 Informações sobre minha conta do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanvpc&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanVPC&show_icons=true)
 
-## 📱 Não há muitas informações sobre mim, porque sou novo em relação ao GitHub, mas caso hajam duvidas, minhas redes sociais são listadas a seguir:
+## 📱 Caso hajam dúvidas, minhas redes sociais são listadas a seguir:
 
 [![Badge GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanVPC)
 [![Badge LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/juan-victor-p-a74253207)
