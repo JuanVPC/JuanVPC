@@ -1,6 +1,6 @@
 ## Oi, sou <strong>Juan!</strong>
 
-> Estudo Ciência da Computação, busco sempre aprender.
+> Estudo Ciência da Computação
 
 
 
