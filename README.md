@@ -1,6 +1,6 @@
 ## Oi, sou <strong>Juan Victor!</strong>
 
-> Eu estudo Ciência da Computação, tenho interesse em programação e busco aprender cada vez mais.
+> Estudo Ciência da Computação, busco sempre aprender.
 
 
 
