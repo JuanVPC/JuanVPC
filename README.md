@@ -1,4 +1,4 @@
-## Oi, sou <strong>Juan!</strong>
+## Oi!
 
 > Estudo Ciência da Computação
 
